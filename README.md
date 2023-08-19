@@ -14,6 +14,6 @@ Techs I used: Next.js 13.4.5 (page router), Socket.io, multer-s3, Liara.ir objec
 + Messenger.js includes all the frontend code you need
 + websocket.js includes all the backend code you need that you have to place it in api folder
 + uploadAttachment.js is the backend you need to for uploading images and attachments to your S3 compatible object storage
-+ I will not provide secrets and api keys obviously. But I also did not provide my models and other stuff you may need
++ I will not provide secrets and api keys obviously. But I also did not provide my models and other stuff you may need. If you think they can help you do better and more, reach out and I will email it to you. 
 + 😉
 ```
