@@ -1,7 +1,7 @@
 # Messenger-Chat-App
 A Chat Application Developed with Next.js, Socket.io, MongoDB and S3 Compatible Object Storage
 
-I highlighted app features on the image bellow. An online version of it can be access via https://mojtabamoradli.ir.
+I highlighted app features on the image bellow. An online version of it can be accessed via https://mojtabamoradli.ir.
 
 Techs I used: Next.js 13.4.5 (page router), Socket.io, multer-s3, Liara.ir object storage, MongoDB, Mongoose, react.cropper, aws-sdk, tailwindcss, ...
 
